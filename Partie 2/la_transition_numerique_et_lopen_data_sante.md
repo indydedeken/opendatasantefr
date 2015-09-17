@@ -1,0 +1,1 @@
+#  La transition numérique et l'open data santé## Dynamique technologique## De multiples orientations## La transition numérique appliquée au secteur de la sante## Nouvelles tendances adoptées
