@@ -15,7 +15,7 @@
    * [Convictions](Partie 3/convictions.md)
    * [Mise en œuvre technique de l'open data santé](Partie 3/mise_en_oeuvre_technique_de_lopen_data_sante.md)
    * [Préconisations](Partie 3/preconisations.md)
-* Bibliographie
+* [Bibliographie](Bibliographie/bibliographie.md)
    * Livres
    * Sites web
 
