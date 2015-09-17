@@ -14,4 +14,5 @@
 * Partie 3 - Quel avenir pour les données de santé
    * Convictions
    * SWOT
+   * Perspectives entrainées par l'utilisation des données de santé
 
