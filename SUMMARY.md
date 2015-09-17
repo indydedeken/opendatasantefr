@@ -12,4 +12,5 @@
    * [Les contraintes à l'ouverture des données](Partie 2/les_contraintes_a_louverture_des_donnees.md)
    * [La transition numérique et l'open data santé](Partie 2/la_transition_numerique_et_lopen_data_sante.md)
 * Partie 3 - Quel avenir pour les données de santé
+   * Convictions
 
