@@ -14,5 +14,5 @@
 * Partie 3 - Quel avenir pour les données de santé
    * Convictions
    * Mise en œuvre technique de l'open data santé
-   * Perspectives entrainées par l'utilisation des données de santé
+   * Préconisations
 
