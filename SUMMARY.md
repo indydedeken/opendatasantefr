@@ -5,5 +5,4 @@
    * Une multiplication des gisements de données
    * Une multiplication des gisements de données
    * [Présentation](Partie 1/presentation.md)
-       * Une multiplication des gisements de données
 
