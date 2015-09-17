@@ -8,7 +8,7 @@
    * [Culture vis-à-vis des données](Partie 1/culture_vis-a-vis_des_donnees.md)
 * Partie 2 - Un open data santé entrainé par la révolution numérique
    * [La situation française](Partie 2/la_situation_francaise.md)
-   * Enjeux de l'open data santé
+   * [Enjeux de l'open data santé](Partie 2/enjeux_de_lopen_data_sante.md)
    * Les contraintes à l'ouverture des données
    * La transition numérique et l'open data santé
 
