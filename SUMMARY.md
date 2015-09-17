@@ -9,6 +9,6 @@
 * Partie 2 - Un open data santé entrainé par la révolution numérique
    * [La situation française](Partie 2/la_situation_francaise.md)
    * [Enjeux de l'open data santé](Partie 2/enjeux_de_lopen_data_sante.md)
-   * Les contraintes à l'ouverture des données
+   * [Les contraintes à l'ouverture des données](Partie 2/les_contraintes_a_louverture_des_donnees.md)
    * La transition numérique et l'open data santé
 
