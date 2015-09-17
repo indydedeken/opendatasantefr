@@ -13,6 +13,6 @@
    * [La transition numérique et l'open data santé](Partie 2/la_transition_numerique_et_lopen_data_sante.md)
 * Partie 3 - Quel avenir pour les données de santé
    * [Convictions](Partie 3/convictions.md)
-   * Mise en œuvre technique de l'open data santé
+   * [Mise en œuvre technique de l'open data santé](Partie 3/mise_en_oeuvre_technique_de_lopen_data_sante.md)
    * Préconisations
 
