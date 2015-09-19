@@ -13,7 +13,7 @@ Ce parcours de soin est générateur de données :
 - les soins et médicaments prescrits, 
 - montant des remboursements,
 - durée de l’arrêt de travail,
-- etc.
+- etc. 
 
 Le parcours de soin est actuellement l’étape qui génère le plus d’informations aussi hétérogènes soient elles. 
 
