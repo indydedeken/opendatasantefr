@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [Partie 1 - Données de santé](partie_1_-_donnee_de_sante.md)
    * [Présentation](Partie 1/presentation.md)
    * [Une multiplication des gisements de données](Partie 1/une_multiplication_des_gisements_de_donnees.md)
@@ -15,6 +15,7 @@
    * [Convictions](Partie 3/convictions.md)
    * [Mise en œuvre technique de l'open data santé](Partie 3/mise_en_oeuvre_technique_de_lopen_data_sante.md)
    * [Préconisations](Partie 3/preconisations.md)
+* [Conclusion](conclusion.md)
 * [Bibliographie](Bibliographie/bibliographie.md)
    * [Livres](Bibliographie/livres.md)
    * [Sites web](Bibliographie/sites_web.md)
