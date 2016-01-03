@@ -1,1 +1,18 @@
-{}
+{
+	"language": "fr",
+	"title": "En quoi l'ouverture des données de santé est-il un vecteur d'innovation pour l'assurance maladie ?",
+	"description": "Mémoire sur l'open data en santé",
+	"structure": {
+		"readme": "README.md",
+		"summary": "SUMMARY.md",
+		"glossary": "GLOSSARY.md"
+	},
+	"pdf": {
+		"headerTemplate": "_TITLE_ / _AUTHOR_",
+		"footerTemplate": "_PAGENUM_ / _SECTION_"
+	},
+	"variables": {
+		"myVar": "no value"
+	},
+	"gitbook": "1.0.1"
+}
