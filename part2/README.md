@@ -1,0 +1,5 @@
+* [Partie 2 - Un open data santé entrainé par la révolution numérique](part2/README.md)
+   * [La situation française](part2/la_situation_francaise.md)
+   * [Enjeux de l'open data santé](part2/enjeux_de_lopen_data_sante.md)
+   * [Les contraintes à l'ouverture des données](part2/les_contraintes_a_louverture_des_donnees.md)
+   * [La transition numérique et l'open data santé](part2/la_transition_numerique_et_lopen_data_sante.md)
