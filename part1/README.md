@@ -1,5 +1,0 @@
-* [Partie 1 - Données de santé](part1/README.md)
-   * [Présentation](part1/presentation.md)
-   * [Une multiplication des gisements de données](part1/une_multiplication_des_gisements_de_donnees.md)
-   * [Les principaux entrepôts de données](part1/les_principaux_entrepots_de_donnees.md)
-   * [Culture vis-à-vis des données](part1/culture_vis-a-vis_des_donnees.md)
