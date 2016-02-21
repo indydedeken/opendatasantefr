@@ -1,6 +1,6 @@
-# Convictions
+# 3.1. Convictions
 
-## SWOT
+## 3.1.1. SWOT
 La matrice SWOT (Strenghts, Weaknesses, Threats, Opportunities) ci-dessous est orientée autour du projet d’ouverture des données de santé. Il présente de manière synthétique les forces et les faiblesses de l’assurance maladie. Ainsi que les opportunités et les menaces qui pèsent sur elle quant à l’initiative d’un tel projet.
 
 ### Forces
@@ -24,20 +24,20 @@ La matrice SWOT (Strenghts, Weaknesses, Threats, Opportunities) ci-dessous est o
 - Innovation monopolistiques des GAFAM
 - Transformation des métiers de la santé
 
-## Perspectives entrainées par l'utilisation des données de santé
+## 3.1.2. Perspectives entrainées par l'utilisation des données de santé
 
 ### a. Des usages déjà concrets
 
-Les Google, Apple, Facebook, Amazon, Microsoft (GAFAM) n’ont pas attendu l’ouverture des données pour commencer à constituer leurs propres bases de données de santé. 
+Les Google, Apple, Facebook, Amazon, Microsoft (GAFAM) n’ont pas attendu l’ouverture des données pour commencer à constituer leurs propres bases de données de santé.
 
 Chacune d’elle est positionnée sur le secteur via une filiale ou un produit (source : [www.nsuchaud.fr](www.nsuchaud.fr/2015/02/gafa-disruptin-all-industries) :
 - Google : Calico
 - Apple : Health Kit
 - Facebook : Market place
 - Amazon : Market place
-- Microsoft : Microsoft Health 
+- Microsoft : Microsoft Health
 
-Grâce à ces produits ou services, ces entreprises commencent à capter des données, à les réutiliser, à élaborer de nouveaux services et à poursuivre de nouvelles recherches.Les sous-parties suivantes détaillent quelques usages existants. #### Réutilisations – Aurora Health CareAux États-Unis, les hôpitaux les moins efficaces sur l’indicateur de réadmission des patients sont moins remboursés par l’assurance maladie.
+Grâce à ces produits ou services, ces entreprises commencent à capter des données, à les réutiliser, à élaborer de nouveaux services et à poursuivre de nouvelles recherches.Les sous-parties suivantes détaillent quelques usages existants.#### Réutilisations – Aurora Health CareAux États-Unis, les hôpitaux les moins efficaces sur l’indicateur de réadmission des patients sont moins remboursés par l’assurance maladie.
 En considérant cela, le **réseau d’hôpital Aurora Health Care** a décidé d’agir en exploitant l’ensemble des données de santé à sa disposition. Grâce à l’analyse des données, Aurora Health Care est parvenue à adapter le traitement de ses patients, et d’ajuster leur sortie en conséquence. Ainsi, ces pratiques ont permis à ce réseau d’hôpitaux de réduire de 10% les réadmissions et de générer une économie de 6 millions de dollars.
 
 #### Nouveaux services – IBM, Watson
@@ -66,13 +66,12 @@ D’abord les **modèles mathématiques avancés** (apprentissage artificiel,
 
 - En participant tout d’abord à l’amélioration de la connaissance du collectif, c’est-à-dire de l’ensemble des patients, ou de l’ensemble d’un corps de praticiens.- En développant des services ou des biens, qui eux-mêmes entrainent une nouvelle approche du citoyen.Les données libres vont attirer de nouveaux publics. Et si cette ouverture était un moyen pour l’assurance maladie de mieux concerner le patient et de contribuer à le rendre acteur de sa santé ?
 
-## Risque de disruption du système de santé tel qu'il est connu
+## 3.1.3. Risque de disruption du système de santé tel qu'il est connu
 
-L’ère numérique a cette particularité de pouvoir redistribuer les cartes à tout moment82. Dans beaucoup de secteurs, y compris celui de la santé, un problème rencontré peut entrainer un contournement, souvent grâces aux nouvelles technologies. Et ce contournement, ou plutôt cette nouvelle solution peut être à l’origine de la création d’une nouvelle entreprise. Cette startup va alors continuer à croitre face à un concurrent qui ne « craint rien ». Dans certains scénarios, à terme la startup deviendra le nouveau leader.
+L’ère numérique a cette particularité de pouvoir redistribuer les cartes à tout moment. Dans beaucoup de secteurs, y compris celui de la santé, un problème rencontré peut entrainer un contournement, souvent grâces aux nouvelles technologies. Et ce contournement, ou plutôt cette nouvelle solution peut être à l’origine de la création d’une nouvelle entreprise. Cette startup va alors continuer à croitre face à un concurrent qui ne « craint rien ». Dans certains scénarios, à terme la startup deviendra le nouveau leader.
 
 Pour maintenir l’égalité du système de santé en place, il est donc essentiel que les acteurs du système de santé écoutent et de sachent répondre aux besoins exprimés au sein de l’environnement. Sous peine d’être déconnecté des besoins émis et donc d’être court-circuité des initiatives novatrices.
 
 En cela, l’ouverture des données de santé par l’assurance maladie peut permettre de maintenir un contact privilégié avec les réutilisateurs, avec finalement la sphère qui innove.
 
 En fin de compte de nombreux exemples montrent que l’innovation ne peut être refusée, qu’il est préférable de l’accompagner, au risque sinon... de disparaître.
-

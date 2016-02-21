@@ -1,10 +1,10 @@
-# Préconisations
+# 3.3. Préconisations
 
 L’ouverture des données de santé, bien que votée, n’est pas encore en place. Ce chapitre vise à relever les axes à prendre en compte pour mettre en place une ouverture des données efficiente pour le fournisseur – ici l’AM – et suscitant l’intérêt des réutilisateurs.
 
-## Open Data Canvas
+## 3.3.1. Open Data Canvas
 
-L’Open Data Canvas est une modélisation type pour composer et représenter intuitivement sa stratégie d’ouverture des données. Elle a été élaborée en 2014 par Nicolas TERPOLILLI et Jean- Baptiste TRICHOT. 
+L’Open Data Canvas est une modélisation type pour composer et représenter intuitivement sa stratégie d’ouverture des données. Elle a été élaborée en 2014 par Nicolas TERPOLILLI et Jean- Baptiste TRICHOT.
 
 Cet outil vise à expliciter les tenants et les aboutissants d’une ouverture des données en répondant à l’interrogation suivante : « quel business model pour ces données ? ».
 
@@ -17,7 +17,7 @@ Ci-dessous, figure la démarche appliquée à l’ouverture des données de 
 
 [Figure 13 – Open Data Canvas appliqué à l’ouverture des données de santé](#)
 
-## Simplification de la gouvernance
+## 3.3.2. Simplification de la gouvernance
 
 En l’état actuel, la gouvernance d’accès adoptée concernant les données de santé est en décalage avec la simplicité du monde informatique (une complexité détaillée aux chapitres précédents).En cela, la règle d’accès serait simplifiée :
 - les **données entièrement anonymes** à disposition du public,- et **les données non entièrement anonymes** seraient accessibles après autorisation de la CNILselon les motivations et méthodes d’analyses présentées par le demandeur.
@@ -28,12 +28,12 @@ En l’état actuel, la gouvernance d’accès adoptée concernant les donne�
 - la consommation de données provenant d’applications sources indépendantes,   - une faible intrusivité dans le S.I. et une autonomie des applications sources,- une acquisition puis une restitution à des sous-systèmes consommateurs.
 [Figure 15 – Schéma de typologie d’architecture de consolidation](Damien PLOIX – Cours MIAGE 2014-2015)
 
-## Mise en œuvre de l'open data
+## 3.3.3. Mise en œuvre de l'open data
 
 Outre l’aspect très macro que représente l’architecture d’une ouverture des données, il est important de ne pas négliger un aspect plus micro mais fondamental : l’architecture de la donnée.### a. Principes fondamentauxDix règles ont été édictés en 2007 par le groupe de travail **Open Gouvernement data** :
 
 1. Complète : toutes les données publiques doivent être mises à disposition du public. Les donnéespubliques sont des données non soumises à des limitations de confidentialité ou de sécurité.2. Primaire : importance de disposer de données avec la granularité la plus fine possible. Dans le cas d’une agrégation de données, il faut pouvoir retrouver les données brutes à l’origine de la transformation.3. Actualisée : la donnée est fraiche, de sorte à préserver sa valeur.4. Accessible : nécessité de standardiser la mise à disposition de la donnée, afin qu’un maximum depersonnes puissent y accéder et en faire un usage le plus large possible.5. Permettre un traitement automatisé : implique une structuration des données.6. Disponible: disponibilité de la donnée pour chacun, sans accès restreint ni obligation d’enregistrement.7. Non propriétaire : relativement au format, les données doivent être présentées dans un format ouvert (non-propriétaire)93.8. Libre : la situation des données ouvertes doit être claire. Les données sans restrictions doivent être incluses dans le domaine public.9. Permanence : le web est souvent modifié, remplacé ou supprimé sans traçabilité, ni alertes ou ni indications. Il est nécessaire pour une donnée ouverte, si elle est mise à disposition en un endroit, qu’elle y reste disponible avec un système d’archivage.10. Coût d’usage : fait référence au coût d’accès. Le coût d’accès peut créer une barrière à l’entrée chez les acteurs qui souhaiteront utiliser ces données ; dans une démarche ouverte ce coût doit être réduit au strict minimum pour maximiser l’accès.
 Ces dix principes fondamentaux ont été complétés en 2010 par d’autres principes supplémentaires :- vérifiées et authentiques,- figurante dans un catalogue de données,- documentées,- sûres,- adaptées à la demande du public, c’est-à-dire à l’écoute des besoins des utilisateurs.
 ### b. Bonnes pratiques
-En complément de principes fondamentaux, la communauté du libre a établi une liste de 72 bonnes pratiques. Ces bonnes pratiques sont publiées sous licence Creative Common95 afin qu’elles puissent être partagées, modifiées ou transformées librement. Elles apportent un cadre organisé dans l’objectif d’une mise en place d’une ouverture. L’étendue de ces actions est large :- API,- Applications, - Catalogage,- Format,- Identification, - Licence,- Transparence,
+En complément de principes fondamentaux, la communauté du libre a établi une liste de 72 bonnes pratiques. Ces bonnes pratiques sont publiées sous licence Creative Common95 afin qu’elles puissent être partagées, modifiées ou transformées librement. Elles apportent un cadre organisé dans l’objectif d’une mise en place d’une ouverture. L’étendue de ces actions est large :- API,- Applications,- Catalogage,- Format,- Identification,- Licence,- Transparence,
 - Utilisabilité,- Vie privée...

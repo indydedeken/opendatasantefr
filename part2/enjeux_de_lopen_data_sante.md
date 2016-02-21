@@ -1,9 +1,9 @@
-# Enjeux de l'open data santé
+# 2.2. Enjeux de l'open data santé
 
 Entre la réduction de ses contraintes et l’attractivité des technologies qui permettent le traitement de données, l’open data bénéficie de véritables arguments pour justifier d’une mise en place.
 Les trois sous-chapitres qui suivent visent à décrire l’influence d’un open data santé sur différents plans et le potentiel qui en émane.
 
-## Enjeux sociétaux
+## 2.2.1. Enjeux sociétaux
 
 ### a. Démocratiques
 
@@ -18,7 +18,7 @@ En premier lieu, par les réutilisations à travers des supports et des points
 En second lieu l’accessibilité à des informations de santé présentées sous un angle attractif, c’est-à- dire simplifiées et synthétisées à l’égard du grand public, encouragerait la prise de conscience collective des assurés et pourrait avoir un impact sur l’éthique individuelle et collective. Et pourquoi pas, permettre de réajuster les comportements frauduleux (fraudes, abus...).
 Enfin, il est également important de comprendre qu’une manipulation de ces types de données est en rapport avec une augmentation de l’investissement personnel du citoyen. Et en cela, rejoindre l’une des missions de l’AM, à savoir agir sur le comportement de l’assuré. Réside ici, l’un des cercles vertueux de l’open data.
 
-## Enjeux liés à la sécurité
+## 2.2.2. Enjeux liés à la sécurité
 
 ###a. Sanitaires
 
@@ -37,18 +37,18 @@ En France de nombreux plans d’action sont lancés dans le cadre des politique
 
 [Figure](Cadre des activités de veille, d’alerte et de réponse Source : www.invs.sante.fr)
 
-L’open data rend possible dans un premier temps, pour ceux qui savent lire ces données, l’établissement d’indicateurs quantifiables et pertinents pour analyser le résultat, informer les citoyens et apporter une critique nouvelle servant la transparence et l’amélioration de l’activité de veille sanitaire. 
+L’open data rend possible dans un premier temps, pour ceux qui savent lire ces données, l’établissement d’indicateurs quantifiables et pertinents pour analyser le résultat, informer les citoyens et apporter une critique nouvelle servant la transparence et l’amélioration de l’activité de veille sanitaire.
 
 À l’image du célèbre classement annuel des hôpitaux publié par la presse, l’édition de « benchmarks » des politiques de santé pourrait être facilitée.
 
-## Enjeux économiques
+## 2.2.3. Enjeux économiques
 
 Cet enjeu n’est bien sûr pas l’enjeu fondateur de l’assurance maladie. Mais en tant qu’organisme de droit privé chargé d’une mission de service public, elle ne peut ignorer ce phénomène et son potentiel.### a. Potentiel de l'e-économie
 
 À l’échelle européenne, l’open data fait figure de secteur d’avenir au regard des 40 milliards d’euros alloués par l’union européenne dans son plan horizon 2020. Cette activité est considérée comme génératrice de croissance économique, à tel point que l’estimation évoquant son potentiel est astronomique : 3000 milliards d’euros.La donnée est d’ailleurs considérée comme le nouveau moteur de l’économie, nous parlons d’e- économie.
 ### b. Une ouverture vertueuse
 
-En effet, l’ouverture des données ouvre à son tour un cercle vertueux : les réutilisations entrainent la création de nouveaux produits ou services, qui entrainent inévitablement la création d’entreprises, qui entrainent la création d’emplois, etc. Ce cheminement était déjà remarqué en 2006, lorsque l’agence spatiale européenne évoquait l’existence d’un modèle empirique49. Ce modèle prétend qu’il existe trois phases :
+En effet, l’ouverture des données ouvre à son tour un cercle vertueux : les réutilisations entrainent la création de nouveaux produits ou services, qui entrainent inévitablement la création d’entreprises, qui entrainent la création d’emplois, etc.Ce cheminement était déjà remarqué en 2006, lorsque l’agence spatiale européenne évoquait l’existence d’un modèle empirique49. Ce modèle prétend qu’il existe trois phases :
 
 - phase n°1 - L’ouverture représente un coût pour les administrations ;- phase n°2 - Le nombre de réutilisateurs croît, les services publics sont plus efficients, et lesréutilisations commencent à générer des profits pour la société ;- phase n°3 - L’effet bénéfique de l’ouverture des données se fait sentir sur l’emploi et l’activité, ainsi que sur les finances publiques.
 ### c. Vers l’open innovation

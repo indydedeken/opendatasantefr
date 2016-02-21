@@ -1,4 +1,4 @@
-# Présentation
+# 1.1. Présentation
 
 La donnée de santé telle qu’on la connait aujourd’hui est relativement récente. Ces trente dernières années ont vu de nombreux changements se produire. Il n’est plus question de transmettre sa radio ou son carnet de santé de médecins en médecins, l’information médicale est mouvante. L’évolution semble tellement rapide qu’aucune définition légale n’existe en France à son sujet.
 
@@ -11,7 +11,7 @@ utilise. En cela, les données de santé se distinguent en deux parties :
 
 À l’image des données globales, dont le volume double tous les deux ans1, les données de santé devraient elles aussi continuer à prospérer. Notamment grâce aux points de collecte toujours plus nombreux et aux coûts de stockage toujours plus faibles.
 
-## Définition de la donnée de santé
+## 1.1.1. Définition de la donnée de santé
 
 ### a. À l'échelle européenne
 
@@ -34,7 +34,7 @@ Dans son sens général, désigne les mêmes informations que précédemme
 anonymisée, donc a priori sans possibilité de ré-identification directe.
 C’est ici que se pose la principale barrière à l’open data santé : le risque de ré-identification ne fait pas consensus. La peur qu’un jour, la progression des technologies couplée à celle des algorithmes permette d’identifier les jeux de données précédemment ouverts
 
-## Postulat quant aux risques
+## 1.1.2. Postulat quant aux risques
 
 Avant d’aborder la suite, il est important de préciser la position adoptée pour la poursuite de ce mémoire quant aux données de santé et au respect de la vie privée.
 

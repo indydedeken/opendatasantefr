@@ -1,4 +1,4 @@
-# Les principaux entrepôts de données
+# 1.3. Les principaux entrepôts de données
 
 Comme évoqué dans le paragraphe sur le parcours de soins, les informations médico-administratives et d’hospitalisations collectées sont stockées majoritairement dans les deux entrepôts de données distincts que sont le PMSI et le SNIIRAM. Ce chapitre vise donc à faire un état de l’art des principaux entrepôts de données de l’assurance maladie.
 
@@ -8,14 +8,14 @@ Comme évoqué dans le paragraphe sur le parcours de soins, les informations m
 
 > Pour détailler cela, deux événements historiques :
 
-> - Les machines Hollerith. Elles sont une innovation qui a permis d’accélérer le recensement de la population sur le sol américain dans un premier temps. Elles ont ensuite servies pendant les années trente à recenser les populations juives en Allemagne. 
+> - Les machines Hollerith. Elles sont une innovation qui a permis d’accélérer le recensement de la population sur le sol américain dans un premier temps. Elles ont ensuite servies pendant les années trente à recenser les populations juives en Allemagne.
 - Le Système Automatisé pour les Fichiers Administratifs et le Répertoire des Individus (SAFARI). L'objectif de ce SAFARI était d’interconnecter, grâce à un puissant ordinateur, des fichiers nominatifs de l'État et que les traitements se fassent via l'identifiant unique du numéro INSEE. Le risque eut été qu’un « clic » permette d’accéder à l’ensemble des informations personnelles, y compris de santé, d’un individu. Ce projet a été abandonné, mais a permis l’instauration de la CNIL.
 
 > Ces deux projets mettent en avant les responsabilités qu’implique l’utilisation de bases de données informatiques ayant vocation à un regroupement général d’informations à caractère personnel. C’est en partie pour se prémunir de ces risques que les bases qui existent sont multiples, dispersées et anonymisées.
 
 > Pour en revenir aux données de santé, leur hébergement n’est pas réservé aux organismes ayant une mission de service public. L’ASIP délivre depuis 2006, aux organisations qui le sollicitent et qui sont admissibles, une certification d’ « hébergeur de données de santé à caractère personnel »17. Ces derniers étant privés et particuliers ne seront pas étudiés dans le cadre de l’ouverture des données de santé de l’Assurance Maladie (AM).
 
-## PMSI
+## 1.3.1. PMSI
 
 Cet entrepôt créé en 1996 est maintenu par l’ATIH. Il permet la mesure de l’activité des établissements de soin selon deux approches principales. La réalisation de statistiques et le calcul des dotations budgétaires allouées chaque année aux établissements de santé.
 Le PMSI vise à adapter le financement et donc à réduire les inégalités de ressources financières entre établissements. Il répond à la mise en place de la tarification à l’activité18 (T2A).
@@ -34,10 +34,10 @@ L’Agence Technique de l’Information Hospitalière (ATIH) met à dispositio
 
 
 - Données sur le site de l’Agence, visibles par tous.
-- Données en accès libre, accessibles grâce à des requêtes simplifiées. 
+- Données en accès libre, accessibles grâce à des requêtes simplifiées.
 - Donnés en accès avec identifiant, accessibles aux professionnels.
 
-## SNIIRAM - Système National d'Information Inter-Régimes de l'Assurance Maladie
+## 1.3.2. SNIIRAM - Système National d'Information Inter-Régimes de l'Assurance Maladie
 
 Créé en 1999, cet entrepôt en silo est maintenu par la CNAMTS et vise à répondre à quatre grandes finalités :
 
@@ -48,17 +48,17 @@ Créé en 1999, cet entrepôt en silo est maintenu par la CNAMTS et vise à 
 
 ### a. Chiffres clés
 
-Le SNIIRAM est actuellement considéré comme l’entrepôt le plus vaste et le plus riche au monde en termes de données de santé. 
+Le SNIIRAM est actuellement considéré comme l’entrepôt le plus vaste et le plus riche au monde en termes de données de santé.
 
 Sa volumétrie est la suivante :
 
-- 1,2 milliard de feuilles de soins par an (et anonymisées), 
+- 1,2 milliard de feuilles de soins par an (et anonymisées),
 - 20 milliards de lignes de prestations disponibles.
 
 Ses principales dimensions techniques sont les suivantes :
 
 - 450 téraoctets de capacité de stockage,
-- 17 bases de données dont trois d’une volumétrie supérieure à 25 téraoctets, 
+- 17 bases de données dont trois d’une volumétrie supérieure à 25 téraoctets,
 - 150 applications gérées.
 
 ### b. Accès aux données du SNIIRAM
@@ -69,7 +69,7 @@ L’ensemble des demandes d’accès sont régis par le Comité d’Orientati
 
 À ce jour, il existe deux types d’accès. Ceux-ci sont définis par l’arrêté SNIIRAM :
 
-- les accès permanents, 
+- les accès permanents,
 - les accès ponctuels.
 
 Les accès ponctuels sont accordés aux acteurs sans accès permanent. Le délai moyen d’obtention est estimé à 13 mois et peut dépasser parfois deux années.

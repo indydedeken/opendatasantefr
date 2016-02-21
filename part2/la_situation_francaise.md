@@ -1,6 +1,6 @@
-# La situation française
+# 2.1. La situation française
 
-## Vis-à-vis de l'open data
+## 2.1.1. Vis-à-vis de l'open data
 
 ### a. Historique de l’ouverture des données
 Les premières notions d’ouverture et de transparence apparaissent dans le document fondateur de notre société : la Déclaration des Droits de l’Homme et du Citoyen de 1789.Celle-ci énonce :« *Art. 15. La Société a le droit de demander compte à tout Agent public de son administration. L’intérêt de cet article réside dans le fait de comprendre comment l'administration prend ses décisions et l'usage qu'elle fait des ressources qui lui sont confiées.* »
@@ -13,7 +13,7 @@
 
 #### Plateformes publiquesEn France, quelques initiatives d’ouvertures de données de santé existent :
 | Intitulé de la plateforme | Description | Objectif |
-| :-----------: | :---------------------- |:---------| 
+| :-----------: | :---------------------- |:---------|
 | [Transparence.sante.gouv.fr](http://www.transparence.sante.gouv.fr) | Plateforme rendant public les montants versés et déclarés par les entreprises aux acteurs de la santé (*professionnels de santé, établissements de santé, éditeurs de logiciels de santé...*). | Éclairer le grand public sur les liens d'intérêt entretenus par les entreprises avec les PS. |
 |[Scopesante.fr](http://www.scopesante.fr)|Plateforme publique de visualisation de données sur la qualité des établissements de santé. La représentation des données est ici, excellemment bien réalisée mais les données n’y sont pas accessibles.|clairer le grand public sur la qualité de certains services des établissements de santé.||[ScanSante.fr](http://www.scansante.fr)|Catalogue de restitution de données agrégées (pour le grand public) de santé à travers divers thématiques: activités médicales, finances, pertinence, performance, ressources humaines. Les données sont accessibles sous la forme de requêtes pré- paramétrées, selon le profil de l’utilisateur.|Restituer au grand public ainsi qu’aux professionnels, des données sur l’information hospitalière complète.|
 
@@ -22,11 +22,11 @@ Ces plateformes ne peuvent être qualifiées de véritable open data. Car me�
 La CNAMTS a organisé son premier hackathon en 2015. Cet événement, centré sur les dépenses de santé du DAMIR, a permis de réunir des professionnels de l’assurance maladie, des statisticiens et des informaticiens autour de ce jeu de données (consulter les annexes 1 et 2).
 L’un des objectifs de l’événement a été de mesurer la capacité du public à appréhender un tel jeu de donnée en une journée. Parmi les principales missions confiées aux acteurs présents, nous retrouvons :
 - L’évaluation du risque de ré-identification des professionnels de santé ou assurés.Ce groupe de travail sur la ré-identification, constitué d’experts, n’est pas parvenu à ré-identifier des candidats via le jeu de données transmis.- La corrélation entre l’offre de soins et la pratique des dépassements d’honoraires.- Quelle concordance entre les données de l’assurance maladie et les données de santé remontées par les objets connectés ?Cette question menée par Withing a permis de croiser les données de l’assurance maladie avec celles constatées sur les usagers de traqueurs d’activité Withing et d’en tirer la conclusion suivante : « *plus les gens sont actifs, moins ils sont consommateurs de soins de santé* ».La démarche du hackathon permet à l’organisateur, à moindre frais :- de percevoir l’intérêt des participants envers les données,- de se rendre compte de la justesse de position des données en termes de granularité ou de complexité des données.Attention à ne pas opérer le raccourci d’un open data seulement exploitable à travers ces événements éphémères et non-rémunérés. Des événements plus réguliers et suivis doivent être privilégiés pour la création d’un écosystème vivant.
-## L'assurance maladie et ses missions
+## 2.1.2. L'assurance maladie et ses missions
 
 Pour répondre à la problématique posée dans ce mémoire, il est important d’expliciter les cinq orientations principales qui guident l’action de l’assurance maladie :- Le **développement de la prévention** pour contenir la dépense des soins, c'est-à-dire agir sur le comportement avant l'apparition de pathologies.- **L'information** et **l'accompagnement de tous les acteurs du système**, en particulier les assurés et les professionnels de santé.- La **limitation des dépenses** inutiles par le contrôle du périmètre des soins pris en charge, la fixation des tarifs et la justification médicale du recours aux soins.- L'**organisation** de l'offre de soins.- Le **pilotage et le contrôle** du système de soins.Pour mener à bien ces grands axes stratégiques, les organismes d’assurance maladie signent une *Convention d’Objectifs et de Gestion* (COG) avec l’État. C’est au sein de ce type de documents que l’on retrouve les axes prioritaires qui donneront lieu à l’élaboration des chantiers pour la période à venir.
 
-## Les événements annoncés ou réalisés
+## 2.1.3. Les événements annoncés ou réalisés
 
 ### a. Convention d’objectifs et de gestion
 
@@ -35,14 +35,14 @@ Ce document est le fondement des axes stratégiques de l’assurance maladie po
 Voici quelques engagements tirés de la COG actuelle :
 
 | Fiche n°14 - Mieux connaître le système de santé et promouvoir ses transformations |
-| :----------------------------------| 
+| :----------------------------------|
 | Promouvoir l’enrichissement des données du SNIIRAM et mettre en œuvre les décisions des pouvoirs publics relatives à l’ouverture des données de santé |
 | Promouvoir une meilleure connaissance des parcours et du système de soins et réaliser des études de santé publique |
 
 | Fiche n°20 - Favoriser l’adaptation du système d’information aux objectifs stratégiques de la COG |
-| :----------------------------------| 
+| :----------------------------------|
 | Faire évoluer la gestion des bases de données pour individualiser le service rendu aux assurés sociaux et à leurs ayants-droits |
- 
+
 Ces fiches vont dans le sens d’une ouverture des données de santé par l’assurance maladie.
 
 ### b. Partenariat avec l’école Polytechnique
@@ -55,4 +55,4 @@ C’est pendant la rédaction de ce mémoire, le 10 avril 2015, qu’a été
 
 ### d. L’avènement des applications de prévention publiques
 
-La prévention est un objectif majeur pour l’assurance maladie. Cette activité est déjà représentée par des applications gratuites comme Sophia, PRADO ou encore Santé Active. Ces programmes de suivi personnalisé reposent entièrement sur la connaissance de l’individu assuré et utilisateur du service. Cela vient donc instaurer un nouveau rapport entre le bénéficiaire et ses propres données personnelles : les confier, accepter un traitement par des algorithmes non-connus pour en retirer un avantage. Même s’il ne s’agit pas d’ouvrir ces données (à caractère personnel), il est important de noter qu’une fois de plus, **la donnée de l’individu est la matière première pour proposer de nouveaux services à forte valeur ajoutée à l’assuré**.
+La prévention est un objectif majeur pour l’assurance maladie. Cette activité est déjà représentée par des applications gratuites comme Sophia, PRADO ou encore Santé Active. Ces programmes de suivi personnalisé reposent entièrement sur la connaissance de l’individu assuré et utilisateur du service. Cela vient donc instaurer un nouveau rapport entre le bénéficiaire et ses propres données personnelles : les confier, accepter un traitement par des algorithmes non-connus pour en retirer un avantage.Même s’il ne s’agit pas d’ouvrir ces données (à caractère personnel), il est important de noter qu’une fois de plus, **la donnée de l’individu est la matière première pour proposer de nouveaux services à forte valeur ajoutée à l’assuré**.

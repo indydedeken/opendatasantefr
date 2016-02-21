@@ -1,8 +1,8 @@
-# Culture vis-à-vis des données
+# 1.4. Culture vis-à-vis des données
 
 Il existe une culture particulière en France quant aux informations à caractère personnel, qu’il s’agisse d’ailleurs de données de santé ou provenant d’autres domaines. Éric Carreel évoque à ce propos une « culture de la peur ». Cette partie se contentera de présenter la confiance des français envers l’assurance maladie (AM), puis la tentative d’ouverture adoptée au Royaume-Uni.
 
-## L'assurance maladie
+## 1.4.1. L'assurance maladie
 
 L’AM a été fondée pendant l’après-guerre en 1945 par le Conseil National de la Résistance. En tant qu’organisme de protection sociale, elle véhicule des valeurs fortes qui sont ancrées dans la culture française : la solidarité et l’égalité.
 
@@ -10,7 +10,7 @@ Son métier repose essentiellement sur la confiance entretenue avec ses assure�
 
 Un autre système de santé européen bénéficie d’un fort crédit depuis sa nationalisation en 1948. Il s’agit du système de santé britannique, orchestré par le National Health Service (NHS).
 
-## La situation au Royaume-Uni
+## 1.4.2. La situation au Royaume-Uni
 
 Le système britannique montre, malgré tout, ses limites depuis quelques années notamment en raison de la trop faible offre de service et la congestion des établissements de santé.
 

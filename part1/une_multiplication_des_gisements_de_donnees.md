@@ -1,35 +1,35 @@
-# Une multiplication des gisements de données
+# 1.2. Une multiplication des gisements de données
 
 La donnée de santé est présente à travers différents supports. Ceux-ci contiennent plus ou moins de données personnelles, sont plus ou moins pertinents selon le traitement que l’on souhaite en faire et sont aussi plus ou moins concernés par l’ouverture des données de santé telle qu’il en est question dans ce mémoire.
 
-## Le parcours de soin
+## 1.2.1. Le parcours de soin
 
 Lorsqu’un individu tombe malade, il prend rendez-vous avec son médecin qui lui prescrit des « soins ». Cette transaction est enregistrée par l’assurance maladie si le patient utilise une feuille de soin ou bien sa carte vitale.
 
 Ce parcours de soin est générateur de données :
 
-- les diagnostics réalisés par le médecin, 
+- les diagnostics réalisés par le médecin,
 - les actes réalisés par le médecin,
-- les soins et médicaments prescrits, 
+- les soins et médicaments prescrits,
 - montant des remboursements,
 - durée de l’arrêt de travail,
-- etc. 
+- etc.
 
-Le parcours de soin est actuellement l’étape qui génère le plus d’informations aussi hétérogènes soient elles. 
+Le parcours de soin est actuellement l’étape qui génère le plus d’informations aussi hétérogènes soient elles.
 
-## Les référentiels
+## 1.2.2. Les référentiels
 
 Beaucoup de données figurent dans les référentiels. Nous y retrouvons l’exhaustivité des établissements de santé, les professionnels de santé (RPPS) ou encore les bénéficiaires (RFI) figurent dans les bases de données maintenues par l’Agence des Systèmes d'Information Partagés de santé (ASIP) ou bien la Caisse Nationale d’Assurance Maladie des Travailleurs Salariés (CNAMTS) :
 
-| Référentiel   |                       Intitulé                      | 
-| :-----------: | :-------------------------------------------------- | 
-| RFI           | Référentiel Individus                               | 
-| RFOS          | Référentiel de l'Offre de Soins                     | 
-| RNCPS         | Répertoire National Commun de la Protection Sociale | 
+| Référentiel   |                       Intitulé                      |
+| :-----------: | :-------------------------------------------------- |
+| RFI           | Référentiel Individus                               |
+| RFOS          | Référentiel de l'Offre de Soins                     |
+| RNCPS         | Répertoire National Commun de la Protection Sociale |
 
 Ces données peuvent être considérées comme « dynamiques », puisque le rythme d’actualisation des référentiels est régulier.
 
-## Les objets connectés de santé
+## 1.2.3. Les objets connectés de santé
 
 
 L’Internet des objets est l’un des grands sujets en cours actuellement et pour les prochaines années. Pour preuve, le cabinet Deloitte annonce qu’en 2020, plus de 26 milliards d’objets connectés seront utilisés dans le monde. L’étude précise que ces objets seront essentiellement détenus par des organisations.
@@ -50,7 +50,7 @@ La télémédecine, qui fait partie intégrante de l’e-santé, décuple 
 
 - téléconsultation,
 - téléexpertise,
-- télésurveillance médicale, 
+- télésurveillance médicale,
 - téléassistance médicale.
 
 Nous pouvons donc mesurer l’importance en termes de quantité et de qualité que représente cette source de données.
@@ -67,7 +67,7 @@ Les données récoltées sont stockées par l’utilisateur lui-même, ou b
 > L’exploitation des données issues de la quantification de soi laisse face à quelques interrogations. Les données obtenues dans le cadre d’une quantification de soi ont la particularité d’être :
 
 > - non-normées pour la plupart,
-- d’une qualité plus ou moins intéressante, 
+- d’une qualité plus ou moins intéressante,
 - très nombreuses, voire trop,
 - d’une pertinence très variable,
 - et hétérogènes.

@@ -1,6 +1,6 @@
-# Les contraintes à l'ouverture des données
+# 2.3. Les contraintes à l'ouverture des données
 
-## Forces réfractaires
+## 2.3.1. Forces réfractaires
 
 ### a. Commission et comités
 
@@ -9,12 +9,12 @@ La CNIL est l’organisme prépondérant dans l’ouverture des données de s
 
 ### b. Le fournisseur de données
 
-La mise à disposition de données publiques est accélérée depuis 2014. Généralement il est constaté que les fournisseurs, ceux qui détiennent la donnée et qui sont chargés de les libérer sont plutôt réfractaires aux conditions d’ouverture proposées par le gouvernement. 
+La mise à disposition de données publiques est accélérée depuis 2014. Généralement il est constaté que les fournisseurs, ceux qui détiennent la donnée et qui sont chargés de les libérer sont plutôt réfractaires aux conditions d’ouverture proposées par le gouvernement.
 
 Parmi ces exemples :
 - Les greffiers : qui s’opposent à l’ouverture des informations qu’ils collectent, puisqu’il s’agit pour eux de revendre ensuite ces données considérées par l’état comme publiques. Leur modèle est fortement déstabilisé.- La SNCF : malgré son image d’acteur open data de premier plan55 la société s’oppose au vote d’un amendement rendant libre et gratuit l’utilisation des horaires et tarifs des trains.Ces réactions soulèvent principalement la contrainte financière engendrée par l’investissement (en matériel, en ressources expertes technique, métier, sécurité...) nécessaire à ces mises à disposition : le ROI est indirect. Comme l’objet de ce mémoire l’évoque, le ROI à attendre de l’ouverture des données (santé ou non) peut être attendu sous la forme d’innovations.La situation de l’assurance maladie et de ses partenaires n’est pas fondamentalement différente puisque les ressources sont rares, il s’agit donc de faire plus avec autant de moyens. Le chemin vers une telle efficacité recherchée peut être emprunté par la mise en place de plateformes open data flexibles et mutualisées à grande échelle par exemple.En plus de cela, une seconde frilosité entre en ligne de compte : le sentiment de n’être plus le possesseur des données, et de devenir un simple distributeur sans valeur ajoutée. L’organisation peut être freinée parce qu’elle estime que ces données constituent son patrimoine.
 
-## Des contraintes qui s'amenuisent
+## 2.3.2. Des contraintes qui s'amenuisent
 
 ###a. Des limites techniques... qui évoluent
 
