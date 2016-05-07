@@ -23,9 +23,12 @@ Le PMSI vise à adapter le financement et donc à réduire les inégalités
 
 ### a. Chiffres clés
 
-- [ATIH - Chiffres clés 2014](http://www.atih.sante.fr/sites/default/files/public/content/2554/atih_chiffres_cles_2014.pdf)
+![Chiffres clés 2014 de l'hospitalisation](./gitbook/images/1.3.1.a_1.png)
+*[ATIH - Chiffres clés 2014](http://www.atih.sante.fr/sites/default/files/public/content/2554/atih_chiffres_cles_2014.pdf)*
 
-- [ATIH - Rapport de l'analyse de l'activité hospitalière 2014](http://www.atih.sante.fr/sites/default/files/public/content/2790/atih_rapport_de_lanalyse_de_lactivite_hospitaliere_2014.pdf)
+![Exemples de prises en charge](./gitbook/images/1.3.1.a_2.png)
+
+*[ATIH - Rapport de l'analyse de l'activité hospitalière 2014](http://www.atih.sante.fr/sites/default/files/public/content/2790/atih_rapport_de_lanalyse_de_lactivite_hospitaliere_2014.pdf)*
 
 
 ### b. Accès aux données du PMSI
@@ -61,6 +64,9 @@ Ses principales dimensions techniques sont les suivantes :
 - 17 bases de données dont trois d’une volumétrie supérieure à 25 téraoctets,
 - 150 applications gérées.
 
+![Exemples de prises en charge](./gitbook/images/1.3.2.a_1.png)
+*Représentation de l'étendue des données disponibles via le portail SNIIRAM. Source : Le SNIIRAM et les bases de données de l’assurance maladie*
+
 ### b. Accès aux données du SNIIRAM
 
 La gouvernance actuelle de ces données est complexe et considérée comme « touffues et contestées » par le rapport BRAS.
@@ -79,6 +85,9 @@ Le processus d’obtention est le suivant :
 - via la Commission nationale Informatique et Libertés (CNIL),
 - si la demande porte sur un projet de recherche en santé, la CNIL consulte un comité d’expert, le Comité Consultatif sur le Traitement de l'Information en matière de Recherche dans la Santé (CCTIRS),
 - si la demande concerne un organisme de recherche à but non lucratif, c’est l’Institut des Données de Santé (IDS) qui est chargé d’approuver la demande avant que celle-ci ne soit transmise à la CNIL.
+
+![Exemples de prises en charge](./gitbook/images/1.3.2.b_1.png)
+*Représentation des accès au SNIIRAM par profil en 2013. Source : Le SNIIRAM et les bases de données de l’assurance maladie*
 
 ---
 

@@ -35,7 +35,8 @@ Comme présenté plus haut, l’assurance maladie est maitresse des données 
 
 En France de nombreux plans d’action sont lancés dans le cadre des politiques de santé. Ces plans tactiques établissent des objectifs dont le suivi est opaque. Les informations qui sont parfois diffusées, le sont sous la forme d’informations très agrégées.De même, les plans d’actions déroulés en conditions d’alerte sanitaire sont sujets à évaluation comme le montre le schéma de cadre des activités de veille, d’alerte et de réponse ci-dessous.
 
-[Figure](Cadre des activités de veille, d’alerte et de réponse Source : www.invs.sante.fr)
+![Cadre des activités de veille, d’alerte et de réponse](./gitbook/images/2.2.2.a_1.png)
+*Cadre des activités de veille, d’alerte et de réponse. Source : www.invs.sante.fr*
 
 L’open data rend possible dans un premier temps, pour ceux qui savent lire ces données, l’établissement d’indicateurs quantifiables et pertinents pour analyser le résultat, informer les citoyens et apporter une critique nouvelle servant la transparence et l’amélioration de l’activité de veille sanitaire.
 
