@@ -38,6 +38,9 @@ Commission nationale de l'informatique et des libertés
 # DM ou DMI
 Dispositifs Médicaux [Implantés]
 
+# E-Santé
+Services du numérique au service du bien-être de la personne. OMS
+
 # Granularité
 La granularité détermine le nombre d'éléments élémentaires composant une entité de référence.
 Une granularité fine implique la présence de nombreux détails, tandis que la présence de peu de détails traduit une granularité élevée.
