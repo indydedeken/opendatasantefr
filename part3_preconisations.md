@@ -4,7 +4,7 @@ L’ouverture des données de santé, bien que votée, n’est pas encore en 
 
 ## 3.3.1. Open Data Canvas
 
-L’Open Data Canvas est une modélisation type pour composer et représenter intuitivement sa stratégie d’ouverture des données. Elle a été élaborée en 2014 par Nicolas TERPOLILLI et Jean- Baptiste TRICHOT.
+L’**Open Data Canvas est une modélisation type pour composer et représenter intuitivement sa stratégie d’ouverture des données**. Elle a été élaborée en 2014 par Nicolas TERPOLILLI et Jean- Baptiste TRICHOT.
 
 Cet outil vise à expliciter les tenants et les aboutissants d’une ouverture des données en répondant à l’interrogation suivante : « quel business model pour ces données ? ».
 
