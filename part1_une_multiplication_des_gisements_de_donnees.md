@@ -19,12 +19,13 @@ Le parcours de soin est actuellement l’étape qui génère le plus d’info
 
 ## 1.2.2. Les référentiels
 
-Beaucoup de données figurent dans les référentiels. Nous y retrouvons l’exhaustivité des établissements de santé, les professionnels de santé (RPPS) ou encore les bénéficiaires (RFI) figurent dans les bases de données maintenues par l’Agence des Systèmes d'Information Partagés de santé (ASIP) ou bien la Caisse Nationale d’Assurance Maladie des Travailleurs Salariés (CNAMTS) :
+Beaucoup de données figurent dans les référentiels. Nous y retrouvons l’exhaustivité des établissements de santé, les professionnels de santé (RPPS) ou encore les bénéficiaires (RNIAM) figurent dans les bases de données maintenues par l’Agence des Systèmes d'Information Partagés de santé (ASIP) ou bien la Caisse Nationale d’Assurance Maladie des Travailleurs Salariés (CNAMTS) :
 
-| Référentiel   |                       Intitulé                      |
-| :-----------: | :-------------------------------------------------- |
-| RFI           | Référentiel Individus                               |
-| RFOS          | Référentiel de l'Offre de Soins                     |
+| Référentiel   |                       Intitulé                                            |
+| :-----------: | :------------------------------------------------------------------------ |
+| RNIAM[^9]     | Répertoire national interrégimes des bénéficiaires de l’assurance maladie |
+| RPPS[^10]     | Répertoire Partagé des Professionnels de Santé                            |
+| ...           | ...                                                                       |
 
 Ces données peuvent être considérées comme « dynamiques », puisque le rythme d’actualisation des référentiels est régulier.
 
@@ -79,5 +80,21 @@ Les données de quantification de soi détenues par des entreprises privées 
 
 [^1] Le marché des objets connectés - Prévisions pour 2016 et perspectives à moyen terme - Paysage concurrentiel et mutations de l'offre, Groupe XERFI, [www.xerfi.com/presentationetude/Le-marche-des-objets-connectes_4EEE16](www.xerfi.com/presentationetude/Le-marche-des-objets-connectes_4EEE16)
 
-[^2] Étude réalisée par TNS Sofres pour le compte de La Mutuelle Générale, « Les Français et les technologies au service de l’autonomie des personnes atteintes de maladies neurodégénératives. », [http://www.tns- sofres.com/sites/default/files/maladiesneurodegeneratives.pdf](http://www.tns- sofres.com/sites/default/files/maladiesneurodegeneratives.pdf)[^3] L’article L.5211-1 du code de la santé publique définit ce qu’est un dispositif médical du point de vue de la législation.[^4] Dispositifs Médicaux Implantés (DMI)[^5] Apnée du sommeil et dispositif médical à PPC : annulation du conditionnement du remboursement à l'observance,[www.vidal.fr/actualites/14547/apnee_du_sommeil_et_dispositif_medical_a_ppc_annulation_du_conditionnement_du_rembou rsement_a_l_observance/](www.vidal.fr/actualites/14547/apnee_du_sommeil_et_dispositif_medical_a_ppc_annulation_du_conditionnement_du_rembou rsement_a_l_observance/)[^6] Fiches pédagogiques d’aide à la qualification d’un projet de télémédecine (01/2015), [http://esante.gouv.fr/sites/default/files/asset/document/asip_fiches_telemedecine_bd.pdf](http://esante.gouv.fr/sites/default/files/asset/document/asip_fiches_telemedecine_bd.pdf)
-[^7] Ces capteurs peuvent être sous forme de montres, ceintures, lentilles de contact, balances, fourchettes, etc.[^8] Le quantified self est suivi de près par la CNIL, Cf : Cahier IP 2, Bibliographie, [https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf](https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)
+[^2] Étude réalisée par TNS Sofres pour le compte de La Mutuelle Générale, « Les Français et les technologies au service de l’autonomie des personnes atteintes de maladies neurodégénératives. », [http://www.tns- sofres.com/sites/default/files/maladiesneurodegeneratives.pdf](http://www.tns- sofres.com/sites/default/files/maladiesneurodegeneratives.pdf)
+
+[^3] L’article L.5211-1 du code de la santé publique définit ce qu’est un dispositif médical du point de vue de la législation.
+
+[^4] Dispositifs Médicaux Implantés (DMI)
+
+[^5] Apnée du sommeil et dispositif médical à PPC : annulation du conditionnement du remboursement à l'observance,
+[www.vidal.fr/actualites/14547/apnee_du_sommeil_et_dispositif_medical_a_ppc_annulation_du_conditionnement_du_rembou rsement_a_l_observance/](www.vidal.fr/actualites/14547/apnee_du_sommeil_et_dispositif_medical_a_ppc_annulation_du_conditionnement_du_rembou rsement_a_l_observance/)
+
+[^6] Fiches pédagogiques d’aide à la qualification d’un projet de télémédecine (01/2015), [http://esante.gouv.fr/sites/default/files/asset/document/asip_fiches_telemedecine_bd.pdf](http://esante.gouv.fr/sites/default/files/asset/document/asip_fiches_telemedecine_bd.pdf)
+
+[^7] Ces capteurs peuvent être sous forme de montres, ceintures, lentilles de contact, balances, fourchettes, etc.
+
+[^8] Le quantified self est suivi de près par la CNIL, Cf : Cahier IP 2, Bibliographie, [https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf](https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)
+
+[^9] Le [RNIAM](https://www.cnil.fr/fr/rniam-repertoire-national-interregimes-des-beneficiaires-de-lassurance-maladie-0)
+
+[^10] Les données du [RPPS](http://esante.gouv.fr/services/referentiels/identification/acceder-aux-donnees-du-rpps-0)
