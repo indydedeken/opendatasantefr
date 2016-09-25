@@ -13,5 +13,11 @@
 	},
 	"variables": {
 		"myVar": "no value"
-	}
+	},
+    "plugins": ["comment"],
+    "pluginsConfig": {
+        "comment": {
+            "highlightCommented": true
+        }
+    }
 }
