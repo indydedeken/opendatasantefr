@@ -17,5 +17,3 @@
    * [Préconisations](part3_preconisations.md)
 * [Conclusion](conclusion.md)
 * [Bibliographie](Bibliographie/bibliographie.md)
-   * [Livres](Bibliographie/livres.md)
-   * [Sites web](Bibliographie/sites_web.md)
